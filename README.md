@@ -6,17 +6,18 @@
 
 
 
-<h1 align="center">hi, i'm shachi!</h1>
+<h3 align="center">۶•ৎ hi, i'm shachi! ۶•ৎ </h1>
 
 
-<pre>
+<pre align="center">
     🍒 Data science • Data analysis • Quant/fintech
       🌸 ML • python • c++ • html/css
-    🍄 Music • Anime • Coffee • Code • Books
+    🍄 intj • avid reader • anime • coffee • books
       🐰 cake  • pasta 
 </pre>
 
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/shachipriyapattanayak)
+
 
 <p align="center">
   <a>
